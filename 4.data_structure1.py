@@ -162,5 +162,3 @@
 	s= s+'w'
 	print("{} id is {}".format(s,id(s)))
 
-
-

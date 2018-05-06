@@ -32,7 +32,6 @@ iris=datasets.load_iris()
 df=pd.DataFrame(iris.data, columns=iris.feature_names)
 y=iris.target
 
-
 10、Git使用：
 
 本机建立repository: 在命令行中新建一个文件夹，进入文件夹后，使用git init进行初始化
