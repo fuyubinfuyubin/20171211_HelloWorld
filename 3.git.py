@@ -1,4 +1,9 @@
 
+下载准备：
+（1）下载Git   网址：
+（2）下载小乌龟  网址： https://tortoisegit.org/
+
+
 1、登录Git
 
 2、新建一个文件夹：mkdir newgame
